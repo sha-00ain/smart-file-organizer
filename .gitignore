@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.vscode/
+.idea/
+
+*.log
+
+organizer_backup.py
+app_backup.py
+
+test_files/
+test_files2/
+another_test/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
