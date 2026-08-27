@@ -30,13 +30,13 @@ A simple and safe desktop application that automatically organizes files into ca
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/1.png" alt="Browse Folder" width="48%">
-  <img src="screenshots/2.png" alt="Preview Selected Folder" width="48%">
+  <img src="screenshots/1.png" alt="Browse Folder" width="38%">
+  <img src="screenshots/2.png" alt="Preview Selected Folder" width="38%">
 </p>
 
 <p align="center">
-  <img src="screenshots/3.png" alt="Click Organize and Confirm" width="48%">
-  <img src="screenshots/4.png" alt="Summary Box" width="48%">
+  <img src="screenshots/3.png" alt="Click Organize and Confirm" width="38%">
+  <img src="screenshots/4.png" alt="Summary Box" width="38%">
 </p>
 
 ## Requirements
