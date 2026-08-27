@@ -27,19 +27,17 @@ A simple and safe desktop application that automatically organizes files into ca
 | Programs | EXE, MSI |
 | Others | Unknown file types |
 
-## Screenshots
+## 📸 Screenshots
 
-### Browse Folder
-![Browse](screenshots/1.png)
+<p align="center">
+  <img src="screenshots/1.png" alt="Browse Folder" width="48%">
+  <img src="screenshots/2.png" alt="Preview Selected Folder" width="48%">
+</p>
 
-### Preview Selected Folder
-![Preview](screenshots/2.png)
-
-### Click organize and Confirm
-![Organize](screenshots/3.png)
-
-### Summary Box
-![Summary](screenshots/4.png)
+<p align="center">
+  <img src="screenshots/3.png" alt="Click Organize and Confirm" width="48%">
+  <img src="screenshots/4.png" alt="Summary Box" width="48%">
+</p>
 
 ## Requirements
 
